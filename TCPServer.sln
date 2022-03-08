@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServer", "TCPServer\TCPServer.csproj", "{2515FF7F-C6BD-4C9D-BF3A-69F37C06EF96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClient", "TCPClient\TCPClient.csproj", "{8D3C80F3-07FC-4125-AA03-4C19A8306924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrowaveGeneratorApp", "MicrowaveGeneratorApp\MicrowaveGeneratorApp.csproj", "{AF2C930F-C905-4E4D-A974-53B282E1AC05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2515FF7F-C6BD-4C9D-BF3A-69F37C06EF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2515FF7F-C6BD-4C9D-BF3A-69F37C06EF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2515FF7F-C6BD-4C9D-BF3A-69F37C06EF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2515FF7F-C6BD-4C9D-BF3A-69F37C06EF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D3C80F3-07FC-4125-AA03-4C19A8306924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3C80F3-07FC-4125-AA03-4C19A8306924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3C80F3-07FC-4125-AA03-4C19A8306924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3C80F3-07FC-4125-AA03-4C19A8306924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2C930F-C905-4E4D-A974-53B282E1AC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2C930F-C905-4E4D-A974-53B282E1AC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2C930F-C905-4E4D-A974-53B282E1AC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2C930F-C905-4E4D-A974-53B282E1AC05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
